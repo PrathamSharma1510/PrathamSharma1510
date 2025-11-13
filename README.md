@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pratham+Sharma+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Engineer;Master's+Student+%40+University+of+Florida;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pratham+Sharma+%F0%9F%91%8B;Full+Stack+Sorcerer+%7C+ML+Architect;Turning+Coffee+into+Code+Since+Forever+%E2%98%95%F0%9F%92%BB;Master's+Graduate+%40+UF+%F0%9F%90%8A;Building+Tomorrow's+Tech+Today+%F0%9F%9A%80;Code.+Deploy.+Repeat.+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <div align="center">
@@ -18,17 +22,35 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ```typescript
 const pratham = {
-  location: "University of Florida 🐊",
-  education: "Master's in Computer Science",
-  focus: ["Data Structures", "Machine Learning", "NLP"],
-  passion: "Building innovative solutions at the intersection of Web Dev & ML",
-  currentlyLearning: ["Advanced Algorithms", "Deep Learning", "System Design"],
-  openToCollaborate: ["Full-Stack Projects", "ML Applications", "Open Source"],
-  askMeAbout: ["Java", "Python", "React", "Node.js", "ML Engineering"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄",
+  title: "Full Stack Developer & ML Engineer 🚀",
+  location: "Florida, USA 🇺🇸",
+  education: "M.S. in Computer Science (University of Florida 🐊)",
+  status: "Crafting scalable solutions & ML magic ✨",
+
+  expertise: {
+    frontend: ["React", "Next.js", "Vue", "Angular"],
+    backend: ["Node.js", "Django", "FastAPI", "Spring Boot"],
+    ml: ["TensorFlow", "PyTorch", "NLP", "Computer Vision"],
+    cloud: ["AWS", "GCP", "Azure", "Docker", "Kubernetes"],
+  },
+
+  currentMission: [
+    "🎯 Building production-ready ML systems",
+    "⚡ Optimizing full-stack architectures",
+    "🌟 Contributing to open source",
+    "📚 Mastering system design patterns",
+  ],
+
+  philosophy: "Write code that speaks for itself 💻",
+  superpower: "Debugging in production without breaking a sweat 😎",
+  funFact: "I speak fluent JavaScript, Python, and Coffee ☕",
 };
+
+console.log("Let's build something amazing together! 🚀");
 ```
 
 ---
